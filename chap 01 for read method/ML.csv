@@ -1,0 +1,32 @@
+Machine learning
+
+Traditional program (is ma hum program khud banaty hay)
+Machine learning (is ma ap input and output de ya khud hi apko aik program bana ke dega)
+
+Types of machine learning (supervised learning. unsupervised learning. reinforcement learning)
+Supervised learning (ya future prediction ka liay use ki jati hay or recommandation system ka liay bhi)
+Unsupervised learning (ya data ka nature ko dekh ky alag alg group bana deta hay)
+Reinforcement learning(is ka use hum day to day life ma karty hay matlab ka hum agr computer pa game khail rahy hay to to computer ka khaila reinforcement ka through hota hay)
+
+Descrete (number bar bar repeat karna)
+continues (bohat sary float number)
+
+Categorical variable (matlab ka aik name (python. nice. c++. java) ya aik categorical data hay categorical variable ko 2 types ma divide kia gaya hay nominal & ordinal)
+categorical variable ko object bhi kaha ja sakta hay
+nominal data (matlab randomly kuch bhi ho sakta hay (in ka bech koi connection nahi hay))
+ordinal data (matlab ka order follow hota hay)
+
+Data Time & Mix variable
+Date Time variable matlab ka (only date. only time)
+Mix variable (is ma humary pass numerical and categorical data dono mix kary huay apko mily)(mix data ko hum enconsistence bhi kehty hay)
+
+
+Data Cleaning
+Row material data ko clean karna 
+Data clean Ka example (matlab ap ka pass aik laptop hay us ki specification likhi hui hay aik file ma to ap us ki specification ko alg alg file ma likh de)
+Categorical data sa numerical data ma conversion karty hay (conversion ka liay encoding ka use karty hay)
+
+WHAT IS MISSING VALUE AND HOW IT FIND IT
+Machine learning ma humy missing value ko hata chahiye ya pir fill karna chahiye (werna algorithm kaam nahi karengay) 
+
+50:40 

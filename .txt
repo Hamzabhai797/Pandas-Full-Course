@@ -1,0 +1,45 @@
+Data Manupulation = data ko clean karna (jesy ka ap ky pass student hay us ka grade A hay or B likha gaya hoo to A karna data Manupulation kehty hay ya koi data missing hoo)
+Key points = preparing and cleaning, Organized and structure raw data, fixing errors in a std grade sheet
+
+Data Analysis = data sa koi important chees ya baat nikalna us ko data Analysis kehty hay
+key points = catch insights from prepared data, find trens & solve problem, Analyzing data
+
+Wes Mckinney pandas creator 
+created pandas in 2008
+
+
+pandas is a powerfull and popular python library design for data Manupulation and data Analyzing 
+        chapter 02
+Series (is ma one dimensional array ki tarha sara data hoga)
+data frame (is ma rows and coloumb rahy gay)
+
+Read and save methods alg alg folder bany huay hay(chapter 1 & 2)
+
+        chapter 03
+Data explore
+1- understand the data set (Mean ka kitne rows hay kitne colum hay kis type ka data present hay kia wo text ma hay)
+2- identify the problems (missing data ko find krna)
+3- plan next step
+
+ap agr starting ya ending ka rows dekh rahy hoo to pandas na is ko dekhny ka liay apko head and tails option dia hay
+head and tails ma humasha integer value acceopt ki jaye gi
+
+Data ko explore karne ka liay sab sa pehle us sa structure samjhna hay ka kitny rows hay kitny coloumb hay
+explore karne ka liay humary pass head(), tails() ka functions hoty hay 
+agr hum is functions ma koi value pass nahi karty  to ya by default starting and ending ka 5 rows print kary ga or in dono ma just integer value pass ki jate hay
+
+understanding the data is ma data ko samjhna hota hay ka us ka structure kia hay ya hum is liay karty hay kyun ka humy pata nahi hota ka data ma kitne rows and kitny coloumb hay and kon sa coloumb kon sa type ka data store krta hay
+agr kisi coloumb ma koi data missing hay to wo kahan pa missing hay in sary problems ko solve karny ka liay info() method use karty hay 
+is method sa humy kia kia pata cal jaye ga (no of rows and coloumb, coloum name, int64 float64 object, nun null counts, memory usage of the data frame)
+
+Describe Method 
+
+
+Shape and column
+Shape ki help sa ap ya jan sakty hoo ka apky data set ma kitny rows hay and kitny column
+shape aik attribute hay method nahi hay ya aik tuple return kary ga 
+shape ka use hum is liay karty hay ka apky data set ka size kitna hay
+colum apko wo sary column ka name display kar dega jo data set ma mojud hay
+column bhi aik attribute hay jo name of column return kary ga as an index object (yani single click ma sary column ka name mil jaingay) and column ka name bi ap change kar sakty hain is ma 
+column ka use hum is liay karty hay ka apky data set ka structure kesa hay 
+55:40

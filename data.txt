@@ -1,0 +1,3 @@
+1- understand the data set (Mean ka kitne rows hay kitne colum hay kis type ka data present hay kia wo text ma hay)
+identify the problems (missing data ko find krna)
+plan next step
