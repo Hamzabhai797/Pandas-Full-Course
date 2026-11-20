@@ -1,14 +1,24 @@
+# import pandas as pd
+# df = pd.read_csv("F:\Hamza work\pandas\chap 03 data explore\ML.csv", encoding="latin1")
+
+# print("Display 5 row at first")
+# print(df.head(5))
+
+
+# print("Display 5 row at last")
+# print(df.tail(5))
+
+
+
+
+
+
 import pandas as pd
-df = pd.read_csv("ML.csv", encoding="latin1")
-# print("display 2 rows of first")
-# print(df.head(2))
+df = pd.read_csv("F:\Hamza work\pandas\chap 03 data explore\ML.csv", encoding="latin1")
 
-# print("display 2 rows of end")
-# print(df.tail(2))
-
-
-print("display 2 rows of first")
+print("Display 5 row at first")
 print(df.head())
 
-print("display 2 rows of end")
+
+print("Display 5 row at last")
 print(df.tail())
