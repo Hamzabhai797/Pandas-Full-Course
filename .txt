@@ -58,5 +58,10 @@ Single coloum series return karta hay
         Chapter 05
 Data Modificatin
 Jab bhi hum dataframe ke saat kaam kar rhy hoty hay to data modify karna humyaana chahiye(mean ke agr koi column add karna hoo ya koi specific value add karni hoo and remove karna aana chahiye)
+Agr hum koi coloum add karna chahty hay to humy square bracket ka use karna perhta hay ya pir hum insert method ka use kar sakty hay and insert method ke under 3 cheesy lagyengi (location, coloumName, someData)
+Agr apko kisi specific position pa coloum ke saat data add karna hay to apko insert method ka use karna pary ga 
 
-1:46
+data frame sa agr kisi value ko update karna chahty hay to hum (.loc[row_index, coloum_name] = new_value) ka use karty hay
+data ko agr remove karna hoo to hum .drop method ka use karty hay (.drop(coloum = [coloum_name], inplace=True))
+
+15:10
